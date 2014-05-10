@@ -6,3 +6,5 @@
 - give credit to photographer
 - make mobile ready
 - your own picture 
+- get rid of blue base
+- meta tags and seo
