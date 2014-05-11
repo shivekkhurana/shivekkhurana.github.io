@@ -2,5 +2,5 @@
 
 $(function() {
   $('.name').addClass('animated bounceInUp');
-  $('.contact').addClass('animated fadeInUp')
+  $('.contact').addClass('animated bounceInDown')
 });
