@@ -1,7 +1,8 @@
 #TODO
 
 - <strike>find a away to make name more visible</strike>
-- <strike>preload bg</strike>
+- <strike>preload bg</strike
+- add loader animation
 - <strike>make links work</strike>
 - give credit to photographer
 - <strike>make mobile ready</strike>
